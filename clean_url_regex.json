@@ -38,5 +38,9 @@
 	["https://www.clarity.ms/%%NUMBER_RANDOM%%/clarity.js",
 	{
 		"NUMBER_RANDOM": "(.+)"
+	}],
+	["https://googleads.g.doubleclick.net/pagead/viewthroughconversion/%%NUMBER_RANDOM%%",
+	{
+		"NUMBER_RANDOM": "(.+)"
 	}]
 ]
