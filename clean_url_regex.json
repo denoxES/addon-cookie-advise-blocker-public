@@ -42,5 +42,34 @@
 	["https://googleads.g.doubleclick.net/pagead/viewthroughconversion/%%NUMBER_RANDOM%%",
 	{
 		"NUMBER_RANDOM": "(.+)"
+	}],
+	["https://cdn.connectif.cloud/eu4/client-script/%%NUMBER_RANDOM%%",
+	{
+		"NUMBER_RANDOM": "(.+)"
+	}],
+	["https://b2c-cdn.scalapay.com/scalapay-analytics%%NUMBER_RANDOM%%/index.js",
+	{
+		"NUMBER_RANDOM": "(.+)"
+	}],
+	["https://b2c-cdn.scalapay.com/scalapay-analytics%%NUMBER_RANDOM%%/merchants-config/%%NAME_FILE%%",
+	{
+		"NUMBER_RANDOM": "(.+)",
+		"NAME_FILE": "(.+)"
+	}],
+	["https://connect.facebook.net/signals/config/%%NUMBER_RANDOM%%",
+	{
+		"NUMBER_RANDOM": "(.+)"
+	}],
+	["https://www.salesmanago.es/static/chunk/sm_war.%%NUMBER_RANDOM%%.js",
+	{
+		"NUMBER_RANDOM": "(.+)"
+	}],
+	["https://www.salesmanago.es/static/chunk/web-push.%%NUMBER_RANDOM%%.js",
+	{
+		"NUMBER_RANDOM": "(.+)"
+	}],
+	["https://www.salesmanago.pl/dynamic/%%NUMBER_RANDOM%%/popups.js",
+	{
+		"NUMBER_RANDOM": "(.+)"
 	}]
 ]
