@@ -1,0 +1,42 @@
+[
+    "https://www.gstatic.com/recaptcha/releases/%%NUMBER_RANDOM%%/recaptcha__es.js",
+    {
+      "NUMBER_RANDOM": "(.+)"
+    },
+    "https://www.gstatic.com/recaptcha/releases/%%NUMBER_RANDOM%%/recaptcha__en.js",
+    {
+      "NUMBER_RANDOM": "(.+)"
+    },
+    "https://www.gstatic.com/recaptcha/releases/%%NUMBER_RANDOM%%/recaptcha__it.js",
+    {
+      "NUMBER_RANDOM": "(.+)"
+    },
+    "https://www.gstatic.com/recaptcha/releases/%%NUMBER_RANDOM%%/recaptcha__pt.js",
+    {
+      "NUMBER_RANDOM": "(.+)"
+    },
+    "https://www.gstatic.com/recaptcha/releases/%%NUMBER_RANDOM%%/recaptcha__de.js",
+    {
+      "NUMBER_RANDOM": "(.+)"
+    },
+    "https://www.gstatic.com/recaptcha/releases/%%NUMBER_RANDOM%%/recaptcha__fr.js",
+    {
+      "NUMBER_RANDOM": "(.+)"
+    },
+    "https://www.gstatic.com/recaptcha/releases/%%NUMBER_RANDOM%%/recaptcha__nl.js",
+    {
+      "NUMBER_RANDOM": "(.+)"
+    },
+    "https://www.salesmanago.es/static/chunk/web-push.%%NUMBER_RANDOM%%.js",
+    {
+      "NUMBER_RANDOM": "(.+)"
+    },
+    "https://www.salesmanago.es/static/chunk/sm_war.%%NUMBER_RANDOM%%.js",
+    {
+      "NUMBER_RANDOM": "(.+)"
+    },
+    "https://www.clarity.ms/%%NUMBER_RANDOM%%/clarity.js",
+    {
+      "NUMBER_RANDOM": "(.+)"
+    }
+  ]
