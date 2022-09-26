@@ -39,6 +39,10 @@
 	{
 		"NUMBER_RANDOM": "(.+)"
 	}],
+	["https://www.clarity.ms/tag/%%NUMBER_RANDOM%%",
+	{
+		"NUMBER_RANDOM": "(.+)"
+	}],
 	["https://googleads.g.doubleclick.net/pagead/viewthroughconversion/%%NUMBER_RANDOM%%",
 	{
 		"NUMBER_RANDOM": "(.+)"
@@ -69,6 +73,10 @@
 		"NUMBER_RANDOM": "(.+)"
 	}],
 	["https://www.salesmanago.pl/dynamic/%%NUMBER_RANDOM%%/popups.js",
+	{
+		"NUMBER_RANDOM": "(.+)"
+	}],
+	["https://apis.google.com/_/scs/abc-static/%%NUMBER_RANDOM%%",
 	{
 		"NUMBER_RANDOM": "(.+)"
 	}]
