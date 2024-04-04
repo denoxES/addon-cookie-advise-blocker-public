@@ -83,5 +83,9 @@
 	["https://maps.googleapis.com/maps%%NUMBER_RANDOM%%",
 	{
 		"NUMBER_RANDOM": "(.+)"
+	}],
+	["https://static.klaviyo.com/onsite/js/default~signup_forms~onsite-triggering.%%NUMBER_RANDOM%%.js",
+	{
+		"NUMBER_RANDOM": "(.+)"
 	}]
 ]
