@@ -87,5 +87,17 @@
 	["https://static.klaviyo.com/onsite/js/default~signup_forms~onsite-triggering.%%NUMBER_RANDOM%%.js",
 	{
 		"NUMBER_RANDOM": "(.+)"
+	}],
+	["https://rec.smartlook.com/es5/init.%%NUMBER_RANDOM%%.js",
+	{
+	    "NUMBER_RANDOM": "([a-f0-9]{12})"
+	}],
+	["https://rec.smartlook.com/es6/init.%%NUMBER_RANDOM%%.js",
+	{
+		"NUMBER_RANDOM": "([a-f0-9]{12})"
+	}],
+	["https://rec.smartlook.com/polyfills.%%NUMBER_RANDOM%%.js",
+	{
+		"NUMBER_RANDOM": "([a-f0-9]{12})"
 	}]
 ]
