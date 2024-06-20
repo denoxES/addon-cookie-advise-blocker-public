@@ -98,7 +98,7 @@
 	}],
 	["https://rec.smartlook.com/es5/init.%%NUMBER_RANDOM%%.js",
 	{
-	    "NUMBER_RANDOM": "([a-f0-9]{12})"
+		"NUMBER_RANDOM": "([a-f0-9]{12})"
 	}],
 	["https://rec.smartlook.com/es6/init.%%NUMBER_RANDOM%%.js",
 	{
@@ -107,5 +107,9 @@
 	["https://rec.smartlook.com/polyfills.%%NUMBER_RANDOM%%.js",
 	{
 		"NUMBER_RANDOM": "([a-f0-9]{12})"
+	}],
+	["https://analytics.tiktok.com/i18n/pixel/static/main.%%NUMBER_RANDOM%%.js",
+	{
+		"NUMBER_RANDOM": "([a-zA-Z0-9]{12})"
 	}]
 ]
