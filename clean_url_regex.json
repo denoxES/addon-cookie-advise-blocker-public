@@ -27,6 +27,14 @@
 	{
 		"NUMBER_RANDOM": "(.+)"
 	}],
+	["https://www.gstatic.com/recaptcha/releases/%%NUMBER_RANDOM%%/recaptcha__es_419.js",
+	{
+		"NUMBER_RANDOM": "([a-zA-Z0-9_-]+)"
+	}],
+	["https://www.gstatic.com/recaptcha/releases/%%NUMBER_RANDOM%%/recaptcha__en.js",
+	{
+		"NUMBER_RANDOM": "([a-zA-Z0-9_-]+)"
+	}],
 	["https://www.salesmanago.es/static/chunk/web-push.%%NUMBER_RANDOM%%.js",
 	{
 		"NUMBER_RANDOM": "(.+)"
